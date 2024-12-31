@@ -66,13 +66,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 
 #### ETC
-
+  <img src="https://img.shields.io/badge/Packer-0A56C2?style=flat-square&logo=Packer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=Puppet&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Jenkins-3EAAAF?style=flat-square&logo=Jenkins&logoColor=black"/>  
-
-
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/></a>  
+  <!-- <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/></a> -->
 
 </br>
 
